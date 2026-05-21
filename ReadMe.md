@@ -16,6 +16,6 @@ Hi, I'm Janmejay 👋<br>I'm a Computer Engineering student passionate about AI,
 ![](https://github-profile-trophy.vercel.app/?username=janmejay25&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=janmejay25&icon=0&color=13)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=janmejay25&icon=0&color=red)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
